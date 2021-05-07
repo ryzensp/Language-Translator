@@ -3,7 +3,7 @@
 
 <img src="https://img.shields.io/badge/Test-pass-green" width="80px"> <a href="https://pypi.org/project/googletrans/4.0.0rc1/"><img src="https://img.shields.io/badge/googletrans-4.0.0rc1-yellow" width="150px"></a>
 <a href="https://pypi.org/project/googletrans/4.0.0rc1/"><img src="https://img.shields.io/badge/PyQt-5-blue" width="58px"></a>
-<a href="https://pypi.org/project/gTTS/"><img src="https://img.shields.io/badge/gTTS-2.2.2-red" width="80px"></a>
+<a href="https://pypi.org/project/gTTS/"><img src="https://img.shields.io/badge/gTTS-2.2.2-red" width="80px"></a><hr>
 
 - Notice : தமிழ், हिन्दी, English are Pre-coded your Languages should be coded by You.
 - Language Keyword:
