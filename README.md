@@ -1,4 +1,4 @@
-# Translator
+# Kiyd
 - A Translator Application using <a href="https://python.org/downloads">Python</a> ang <a href="https://google.com">Google</a>.
 
 <img src="https://img.shields.io/badge/Test-pass-green" width="80px"> <a href="https://pypi.org/project/googletrans/4.0.0rc1/"><img src="https://img.shields.io/badge/googletrans-4.0.0rc1-yellow" width="150px"></a>
