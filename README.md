@@ -15,7 +15,7 @@
 - Translate From Speech
 - Translate to Selected Language and hear the transtaled Audio.
 
-<img src="https://raw.githubusercontent.com/sijey-praveen/Translator/Sijey/demo/01.png" width="400px"> <img src="https://raw.githubusercontent.com/sijey-praveen/Translator/Sijey/demo/02.png" width="400px">
+<img src="https://raw.githubusercontent.com/sijey-praveen/Kiyd/Sijey/demo/01.png" width="400px"> <img src="https://raw.githubusercontent.com/sijey-praveen/Kiyd/Sijey/demo/02.png" width="400px">
 
 **How This Works**
 - This Application build using Python,<a href="https://riverbankcomputing.com/software/pyqt/"> PyQt</a>, Google.
