@@ -33,7 +33,7 @@
 # Installation
 ```python
 # Step 1
-python setup.py
+pip install -r setup.txt
 
 # Step 2
 python Translator.py
