@@ -13,7 +13,7 @@
 
 
 # Contributing
-<a href="https://github.com/sijey-praveen/Szidu/pulls">Pull requests</a> are welcome. For major changes or improvement, please open an <a href="https://github.com/sijey-praveen/Szidu/issues">issue</a> first to discuss what you would like to change or add.  
+<a href="https://github.com/sijey-praveen/Kiyd/pulls">Pull requests</a> are welcome. For major changes or improvement, please open an <a href="https://github.com/sijey-praveen/Kiyd/issues">issue</a> first to discuss what you would like to change or add.  
 
 **Created For Educational Purposes Only!**
 <hr>
