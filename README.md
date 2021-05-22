@@ -1,7 +1,6 @@
-# Kiyd
-- A Translator Application using <a href="https://python.org/downloads">Python</a> ang <a href="https://google.com">Google</a>.
+# A Translator Application using <a href="https://python.org/downloads">Python</a> ang <a href="https://google.com">Google Translator API</a>.
 
-<img src="https://img.shields.io/badge/Kiyd-Stable-green" width="90px"> <a href="https://pypi.org/project/googletrans/4.0.0rc1/"><img src="https://img.shields.io/badge/googletrans-4.0.0rc1-yellow" width="150px"></a>
+<a href="https://pypi.org/project/googletrans/4.0.0rc1/"><img src="https://img.shields.io/badge/googletrans-4.0.0rc1-yellow" width="150px"></a>
 <a href="https://pypi.org/project/googletrans/4.0.0rc1/"><img src="https://img.shields.io/badge/PyQt-5-blue" width="58px"></a>
 <a href="https://pypi.org/project/gTTS/"><img src="https://img.shields.io/badge/gTTS-2.2.2-red" width="80px"></a><hr>
 
